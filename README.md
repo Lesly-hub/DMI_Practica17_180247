@@ -4,14 +4,18 @@
 
 <div align="center">
   
-# Universidad Tecnológica de Xicotepec de Juárez
+![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
+## Información General
 
-
-## Ingeniería en Desarrollo y Gestión de Software
-## Elisama Arturo Calva Moreno
-## 10A
-### Desarrollo Móvil Integral
-
+- **Creado por:** Lesly Yareth Hernandez Bonilla
+- **Asignatura:** Desarrollo Movil Integral
+- **Grado:** 10
+- **Grupo:** A
+- **Docente:** MTI. Marco Antonio Ramirez Hernandez
+## Descripción
+En el mundo moderno de la programación, el desarrollo de aplicaciones se centra cada vez más en la interconexión eficiente de sistemas y la gestión efectiva de datos. En este contexto, la creación de una API (Interfaz de Programación de Aplicaciones)
+que implementa las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) emerge como un componente esencial. Esta API actúara de tal amnera que permite a diferentes aplicaciones y servicios comunicarse de manera fluida,
+facilitando la manipulación de datos de manera coherente y segura.
 
 ## Capturas de Pantalla
 <p align="center">
@@ -22,28 +26,6 @@
   <img src="./assets/a5.png" width="200" alt="Captura de Pantalla 5">
 </p>
 
-
-
-&nbsp;
-&nbsp;
-
-
-|  Característica |  Información |
-| :------------: | :------------: |
-| Nombre  |  Practica 17: Implementación de la Búsqueda e inserción de los datos de los jugadores. |
-| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un  CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de  "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de  datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en  las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o  evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. En este nuevo avance se realizo la implementación de búsqueda en nuestro CRUD para poder buscar a los jugadores que se hallan insertado en la base de datos, también se incorporo la función de la inserción de los datos de los jugadores. |
-|  Fecha de Carga | 15/11/23  |
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-<br>
-<br>
-<br>
-<br>
 
 [![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
 
