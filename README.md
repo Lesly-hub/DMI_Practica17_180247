@@ -13,11 +13,5 @@ En el mundo moderno de la programación, el desarrollo de aplicaciones se centra
 que implementa las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) emerge como un componente esencial. Esta API actúara de tal amnera que permite a diferentes aplicaciones y servicios comunicarse de manera fluida,
 facilitando la manipulación de datos de manera coherente y segura.
 
-  <img src="./assets/a1.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/a2.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/a3.png" width="200" alt="Captura de Pantalla 3">
-  <img src="./assets/a4.png" width="200" alt="Captura de Pantalla 4">
-  <img src="./assets/a5.png" width="200" alt="Captura de Pantalla 5">
-
 
 
